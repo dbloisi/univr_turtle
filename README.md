@@ -1,4 +1,4 @@
-# univr_turtle<br>ROS turtlesim based publisher/subscriber example
+# univr_turtle<br>ROS turtlesim based example
 
 This file is part of hello_ros and it is distributed under the terms of the
 GNU Lesser General Public License (Lesser GPL)
@@ -20,7 +20,8 @@ You should have received a copy of the GNU Lesser General Public License
 along with univr_turtle. If not, see <http://www.gnu.org/licenses/>.
 
 The files in univr_turtle contain the ROS based implementation for
-a turtle moving in a circle
+a turtle moving in a circle that can be controlled by using
+keyboard arrow commands
 
 Please, report suggestions/comments/bugs to<br>
 domenico.bloisi@gmail.com
