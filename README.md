@@ -1,6 +1,6 @@
 # univr_turtle<br>ROS turtlesim based example
 
-This file is part of hello_ros and it is distributed under the terms of the
+This file is part of univr_turtle and it is distributed under the terms of the
 GNU Lesser General Public License (Lesser GPL)
 
 univr_turtle is included in the material of the course (in italian)<br>
